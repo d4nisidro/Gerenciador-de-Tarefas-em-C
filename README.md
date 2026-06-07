@@ -20,11 +20,11 @@ Pilha Encadeada (LIFO) — histórico de concluídas:
 
   Exemplo real:
 
-  1 -> Estudar para a prova de Cálculo
+  1;Estudar para a prova de Cálculo
 
-  2 -> Entregar relatório do Projeto Extensionista
+  2;Entregar relatório do Projeto Extensionista
 
-  3 -> Revisar o código do projeto final
+  3;Revisar o código do projeto final
 
   O separador é o ponto e vírgula (;).
 
