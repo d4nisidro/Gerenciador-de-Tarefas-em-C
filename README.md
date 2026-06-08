@@ -213,4 +213,15 @@ gcc -std=c11 -Wall -Wextra -o tarefas gerenciador_tarefas.c
 - Compilador GCC ou Clang com suporte ao padrão C11
 - Sistema operacional Linux, macOS ou Windows com terminal
 - Nenhuma biblioteca externa — apenas a biblioteca padrão do C
+
+---
+
+## 👥 Integrantes
+
+| Nome |
+|---|
+| Daniel Isidro de Albuquerque Silva |
+| Tainá Da Silva |
+```
 ````
+
